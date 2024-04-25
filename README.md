@@ -2,6 +2,9 @@
 
 ### DATE: 
 
+### Name:  Gokkul M
+### Register Number: 212223240039
+
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
 
@@ -31,12 +34,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/varshasharon/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/98278161/4a7edd0e-9844-4152-b92f-0037d9fc2e64)
 
 ### Output:
-
-
-### Name:
-### Register Number:
+![image](https://github.com/varshasharon/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/98278161/903b6bb8-e31e-4cf4-85de-a59321006683)
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
